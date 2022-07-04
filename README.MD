@@ -11,6 +11,20 @@
 
 <br />
 
+## _Previews_
+
+| Sign in screen | Track List screen | Create track screen |
+| ------ | ------ | ------ |
+| <img src="https://github.com/vhludnev/tracking-app-rn/blob/main/frontend/assets/previews/1656955727941.jpg" width="200" alt="login screen" /> | <img src="https://github.com/vhludnev/tracking-app-rn/blob/main/frontend/assets/previews/1656955727948.jpg" width="200" alt="track list screen" /> | <img src="https://github.com/vhludnev/tracking-app-rn/blob/main/frontend/assets/previews/1656955727961.jpg" width="200" alt="create new track screen" /> |
+
+<br/><br/>
+
+| Track detail screen | User profile screen tab |
+| ------ | ------ | ------ |
+| <img src="https://github.com/vhludnev/tracking-app-rn/blob/main/frontend/assets/previews/1656955727958.jpg" width="200" alt="track detail screen" /> | <img src="https://github.com/vhludnev/tracking-app-rn/blob/main/frontend/assets/previews/1656955727954.jpg" width="200" alt="post screen" /> |
+
+<br/><br/>
+
 ## Installation
 
 The app requires [Node.js](https://nodejs.org/) v16+ and expo cli to run smoothly.
