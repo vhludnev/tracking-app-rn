@@ -10,7 +10,8 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
-**/_*.*
+__*.*
+.gitignore
 .env
 .vscode
 # macOS

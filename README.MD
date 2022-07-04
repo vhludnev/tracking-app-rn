@@ -20,7 +20,7 @@
 <br/><br/>
 
 | Track detail screen | User profile screen tab |
-| ------ | ------ | ------ |
+| ------ | ------ |
 | <img src="https://github.com/vhludnev/tracking-app-rn/blob/main/frontend/assets/previews/1656955727958.jpg" width="200" alt="track detail screen" /> | <img src="https://github.com/vhludnev/tracking-app-rn/blob/main/frontend/assets/previews/1656955727954.jpg" width="200" alt="post screen" /> |
 
 <br/><br/>
